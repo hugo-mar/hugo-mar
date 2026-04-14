@@ -10,7 +10,7 @@
 
 I'm a software developer with a strong foundation in C and C++, built through the rigorous 42 Lisboa curriculum.
 
-Before transitioning into tech, I worked as a clinical psychologist — a background that strengthened my analytical thinking, autonomy, and structured approach to solving complex problems.
+Alongside my transition into tech, I currently work as a clinical psychologist — a background that strengthens my analytical thinking, autonomy, and structured approach to solving complex problems.
 
 I’m particularly interested in low-level programming, systems, and building efficient, reliable software.
 
@@ -36,6 +36,17 @@ I’m particularly interested in low-level programming, systems, and building ef
 - GDB  
 - tcpdump  
 - tshark  
+
+---
+
+## 🧩 Background
+
+I currently work as a clinical psychologist while transitioning into software development.
+
+This experience has helped me develop:
+- Strong analytical and problem-solving skills
+- Clear and structured communication
+- Ability to work independently and handle complex situations
 
 ---
 
