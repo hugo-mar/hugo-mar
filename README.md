@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hugo Dias
 
-💻 Software Developer (C / C++)
-🎓 42 Lisboa  
-🧠 Former Clinical Psychologist turned Developer  
+💻 Software Developer (C / C++)<br>
+🎓 42 Lisboa<br>
+🧠 Former Clinical Psychologist → transitioning into Software Development
 
 ---
 
