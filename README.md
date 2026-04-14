@@ -42,20 +42,34 @@ I’m particularly interested in low-level programming, systems, and building ef
 ## 🚀 Featured Projects
 
 ### 🧩 Minishell
-A simplified Unix shell built from scratch in C.
+A simplified Unix shell built in C, developed collaboratively as part of the 42 curriculum.
 - Process management (fork, exec)
 - Pipes and file descriptors
 - Command parsing
-👉 [View project](link)
+
+**My Contributions:**
+- Implemented several built-in commands
+- Developed an initial process handling approach using `fork`
+- Extensively worked on debugging and improving stability
+
+👉 [My repository](https://github.com/hugo-mar/minishell)  
+🔗 [Original project](https://github.com/mariocos/myshell)
 
 ---
 
 ### 🌐 Webserv
-HTTP server implemented in C++, handling requests, routing, and connections.
+HTTP server implemented in C++, built as a group project.
 - HTTP protocol basics
 - Socket programming
 - Request parsing
-👉 [View project](link)
+
+**My Contributions:**
+- Worked on the application layer (request handling & logic)
+- Actively contributed to debugging and system stability
+- Collaborated closely on integration with the core server
+
+👉 [My repository](https://github.com/hugo-mar/webserv)  
+🔗 [Original project](https://github.com/IDsuroh/42_webserv)
 
 ---
 
@@ -64,7 +78,8 @@ A simple 3D engine using raycasting, inspired by Wolfenstein.
 - Raycasting
 - Graphics rendering
 - Event handling
-👉 [View project](link)
+
+👉 [View project](https://github.com/hugo-mar/cub3d)
 
 ---
 
@@ -73,7 +88,9 @@ Containerized infrastructure using Docker.
 - Docker & Docker Compose
 - NGINX, WordPress, MariaDB
 - System configuration
-👉 [View project](link)
+
+👉 [View project](https://github.com/hugo-mar/inception)
+
 ---
 
 ## 📫 Contact
