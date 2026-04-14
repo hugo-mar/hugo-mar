@@ -2,7 +2,7 @@
 
 💻 Software Developer (C / C++)<br>
 🎓 42 Lisboa<br>
-🧠 Former Clinical Psychologist → transitioning into Software Development
+🧠 Clinical Psychologist → transitioning into Software Development
 
 ---
 
